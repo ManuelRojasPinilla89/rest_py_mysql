@@ -1,0 +1,10 @@
+#instrucciones
+#crear ambiente
+virtualenv drugstore-venv
+
+#instalar django
+pip install Django==2.1.7
+#instalar djangorestframwork
+pip install djangorestframework
+#isntalar libreria my sql
+pip install pymysql
